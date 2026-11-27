@@ -78,6 +78,8 @@ xychart-beta
 
 ### Đọc kết quả theo DB ở mức nặng
 
+Xem [số đếm đầy đủ cho Bảng 5 và khoảng bất định ghép cặp FVC2004](./48_fingerprint_submission_evidence.md).
+
 **FVC2000/2002 — FAIL:** FVC2000/DB2 giảm từ chối nhầm **31 → 27 / 119** cặp cùng ngón nhưng tăng chấp nhận nhầm **3 → 4 / 1.904** cặp khác ngón. Mức tăng ròng một lượt đủ để không đạt tiêu chí đã khóa; không phải bằng chứng FAR tăng có ý nghĩa thống kê.
 
 **FVC2004 — PASS:** DB2 đóng góp phần lớn mức giảm từ chối nhầm; DB3 đóng góp phần lớn mức giảm chấp nhận nhầm nhưng có thêm một lượt từ chối nhầm.
